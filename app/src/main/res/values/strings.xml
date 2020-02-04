@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Button1 Lab</string>
+    <string name="submit">Submit</string>
+    <string name="greeting">Hello!</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="increment_number">Increment Number</string>
+    <string name="number">0</string>
+</resources>
